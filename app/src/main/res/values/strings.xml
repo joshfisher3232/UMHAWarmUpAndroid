@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">UMHAWarmup</string>
+    <string name="Save_button_String">Save</string>
+    <string name="Excersise_description_Hint">Excersise Description</string>
+    <string name="Excersise_name_input_hint">Excersise Name</string>
+    <string name="Title_Excersise_String">Add Excersise</string>
 </resources>
